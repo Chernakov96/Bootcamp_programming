@@ -1,0 +1,15 @@
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\bin\Debug\net6.0\Parallel programming.exe
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\bin\Debug\net6.0\Parallel programming.deps.json
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\bin\Debug\net6.0\Parallel programming.runtimeconfig.json
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\bin\Debug\net6.0\Parallel programming.dll
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\bin\Debug\net6.0\Parallel programming.pdb
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\obj\Debug\net6.0\Parallel programming.csproj.AssemblyReference.cache
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\obj\Debug\net6.0\Parallel programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\obj\Debug\net6.0\Parallel programming.AssemblyInfoInputs.cache
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\obj\Debug\net6.0\Parallel programming.AssemblyInfo.cs
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\obj\Debug\net6.0\Parallel programming.csproj.CoreCompileInputs.cache
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\obj\Debug\net6.0\Parallel programming.dll
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\obj\Debug\net6.0\refint\Parallel programming.dll
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\obj\Debug\net6.0\Parallel programming.pdb
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\obj\Debug\net6.0\Parallel programming.genruntimeconfig.cache
+C:\Users\ichernakov\Desktop\ГБ\C# learning course\Bootcamp\Parallel programming\obj\Debug\net6.0\ref\Parallel programming.dll
